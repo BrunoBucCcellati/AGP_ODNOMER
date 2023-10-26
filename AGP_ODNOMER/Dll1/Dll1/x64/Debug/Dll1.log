@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  dllmain.cpp
+  function.cpp
+C:\Users\maxim\OneDrive\Рабочий стол\усовершенств алгоритм\Dll1\Dll1\function.cpp(8,8): warning C4273: y: несовместимое связывание dll
+C:\Users\maxim\OneDrive\Рабочий стол\усовершенств алгоритм\Dll1\Dll1\function.h(9,32): message : см. предыдущее определение "y"
+C:\Users\maxim\OneDrive\Рабочий стол\усовершенств алгоритм\Dll1\Dll1\function.cpp(18,8): warning C4273: HH: несовместимое связывание dll
+C:\Users\maxim\OneDrive\Рабочий стол\усовершенств алгоритм\Dll1\Dll1\function.h(10,32): message : см. предыдущее определение "HH"
+C:\Users\maxim\OneDrive\Рабочий стол\усовершенств алгоритм\Dll1\Dll1\function.cpp(43,8): warning C4273: SH: несовместимое связывание dll
+C:\Users\maxim\OneDrive\Рабочий стол\усовершенств алгоритм\Dll1\Dll1\function.h(11,32): message : см. предыдущее определение "SH"
+C:\Users\maxim\OneDrive\Рабочий стол\усовершенств алгоритм\Dll1\Dll1\function.cpp(70,8): warning C4273: characteristic: несовместимое связывание dll
+C:\Users\maxim\OneDrive\Рабочий стол\усовершенств алгоритм\Dll1\Dll1\function.h(12,32): message : см. предыдущее определение "characteristic"
+C:\Users\maxim\OneDrive\Рабочий стол\усовершенств алгоритм\Dll1\Dll1\function.cpp(75,8): warning C4273: shag: несовместимое связывание dll
+C:\Users\maxim\OneDrive\Рабочий стол\усовершенств алгоритм\Dll1\Dll1\function.h(13,32): message : см. предыдущее определение "shag"
+  Создание кода...
+     Создается библиотека C:\Users\maxim\OneDrive\Рабочий стол\усовершенств алгоритм\Dll1\x64\Debug\Dll1.lib и объект C:\Users\maxim\OneDrive\Рабочий стол\усовершенств алгоритм\Dll1\x64\Debug\Dll1.exp
+  Dll1.vcxproj -> C:\Users\maxim\OneDrive\Рабочий стол\усовершенств алгоритм\Dll1\x64\Debug\Dll1.dll
